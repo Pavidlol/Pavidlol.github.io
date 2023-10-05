@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="blog.html">Blogs</a></li>
+  <li><a href="coaching.html">Coaching</a></li>
+</ul>
+
+<p>Here is where you talk about yourself. Homepage</p>
+
+</body>
+</html>
